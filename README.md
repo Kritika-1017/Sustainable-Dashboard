@@ -334,7 +334,3 @@ The dashboard implementation will be measured by:
 - **Advanced Analytics**: Statistical analysis and correlation studies
 
 ---
-
-**Built with ❤️ for sustainable textile manufacturing**
-
-*Last updated: December 2024*
